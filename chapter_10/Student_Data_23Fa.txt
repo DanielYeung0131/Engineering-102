@@ -1,0 +1,6 @@
+Year        |  Number of Students   Minimum Age   Maximum Age
+------------------------------------------------------------
+Freshman    |  2                    25            26
+Sophomore   |  0                    inf           -inf
+Junior      |  0                    inf           -inf
+Senior +    |  0                    inf           -inf

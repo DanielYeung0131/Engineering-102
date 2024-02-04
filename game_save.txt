@@ -1,0 +1,5 @@
+player1
+
+player2
+Chansey,64,5,4
+

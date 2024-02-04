@@ -11,6 +11,7 @@
 # Date: 18 October 2023
 import matplotlib.pyplot as plt
 import math
+
 list_t = [0, 0.45, 1.1, 1.75, 2.25, 2.7]
 list_y = [0, 0.23, 0.4, 0.18, 0.07, 0.01]
 plt.figure('Frodo likes this.', layout = 'constrained')

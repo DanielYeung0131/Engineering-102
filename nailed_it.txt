@@ -1,0 +1,11 @@
+'Group 8' with Nikolai Steen, Sebastian Warren, Aravindh Diwakar, Daniel Yeung
+November 1, 2023
+
+x-values = time, y-values = a
+------------------------------------------------------------------
+1, 2
+3, 4
+------------------------------------------------------------------
+1, 1.3        extrapolated
+2, 2.7        interpolated
+3, 4.0        interpolated
